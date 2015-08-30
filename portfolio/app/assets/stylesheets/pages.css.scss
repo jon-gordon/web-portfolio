@@ -1,0 +1,25 @@
+// Place all the styles related to the Pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.header {
+	display: inline-block;
+}
+
+.nav {
+	float: left;
+}
+
+.name {
+	float: right;
+  background-color: gray;
+  padding: 10px;
+}
+
+li {
+  display: block;
+  float: left;
+  margin: 0;
+  width: 25%;
+  background-color: gray;
+  padding: 10px;
+}
